@@ -3,16 +3,38 @@
 > Un peculiar remake del mítico Road Fighter de Konami para MSX.
 
 ## Características del juego
+**Tipo de juego**: Coches, 2D, Retro  
 **Año de creación**: 2004  
-**Plataforma**: Windows XP  
+**Desarrollado en**: Pentium III a 500Mhz  
+**Plataforma**: Windows XX  
 **Lenguaje de programación**: Visual Basic 6 + DirectX 8  
 
 ## Capturas de pantalla
-algunas capturas de pantalla de los diferentes niveles que tiene el juego.  
+Algunas capturas de pantalla de los diferentes niveles que tiene el juego.  
 
-###NIVEL 1
+### NIVEL 1
+![nivel 1](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel1.jpg)
+![nivel 1b](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel1b.jpg)
 
+### NIVEL 2
+![nivel 2 aceite](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel2aceite.jpg)
+![nivel 2 camion azul](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel2camionazul.jpg)
 
+### NIVEL 3
+![nivel 3 charco](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel3charco.jpg)
+![nivel 3 moto](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel3moto.jpg)
+
+### NIVEL 4
+![nivel 4 roca](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel4roca.jpg)
+![nivel4turbo](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel4turbo.jpg)
+
+### NIVEL 5
+![nivel 5 tren](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel5tren.jpg)
+![nivel5tren2](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel5tren2.jpg)
+
+### NIVEL 6
+![nivel 6 tanque](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel6tanque.jpg)
+![nivel 6 tanque 2](https://github.com/dcolomer/carretera-maldita/blob/master/imagenes/niveles/nivel6tanque2.jpg)
 
 ## Objetivo del juego
 Al volante de tu flamante deportivo, debes alcanzar la meta en cada uno de los séis niveles o tramos.
