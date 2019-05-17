@@ -5,7 +5,8 @@
 ## Características del juego
 **Tipo de juego**: Coches, 2D, Retro  
 **Año de creación**: 2004  
-**Desarrollado en**: Pentium III a 500Mhz  
+**PC de desarrollo**: Pentium III a 500Mhz  
+**Tarjeta gráfica**: ATI 3D RAGE PRO AGP 2x (8MB de RAM)   
 **Plataforma**: Windows XX  
 **Lenguaje de programación**: Visual Basic 6 + DirectX 8  
 
@@ -89,8 +90,14 @@ Como es de esperar, la dificultad va aumentando en cada nivel. A medida que avan
 **Continuar después una pausa**: cualquier tecla  
 **Salir del juego**: tecla ESC  
 
-
-
+### A tener en cuenta
+Se trata de un juego creado por puro placer de programar...es jugable pero no está acabado:
+- Si haces ALT+TAB o cualquier combinación parecida, el juego se colgará. Para salir utiliza siempre la tecla ESC.
+- El paisaje es distinto en cada nivel, pero la carretera siempre es la misma.
+- El juego sólo contempla 1 jugador.
+- No hay intro</li>
+- Hay errores y mejoras por hacer.
+- Solamente lo he podido ejecutar en Windows XP (directamente, sin virtualización tipo VitualBox, VMWare, etc). En Windows 7 y Windows 10 me ha sido imposible ejecutarlo, a pesar de probar diversas opciones de compatibilidad.  
 
 
 
