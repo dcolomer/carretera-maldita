@@ -7,7 +7,7 @@
 **Año de creación**: 2004  
 **PC de desarrollo**: Pentium III a 500Mhz  
 **Tarjeta gráfica**: ATI 3D RAGE PRO AGP 2x (8MB de RAM)   
-**Plataforma**: Windows XX  
+**Plataforma**: Windows XP  
 **Lenguaje de programación**: Visual Basic 6 + DirectX 8  
 
 ## Capturas de pantalla
